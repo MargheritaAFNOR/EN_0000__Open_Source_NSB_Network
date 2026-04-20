@@ -1,5 +1,6 @@
-Mission Statement — Open Source National Standardisation Bodies Network —  OSSENCE
-==========
+# Open Source National Standardisation Bodies Network —  OSSENCE
+
+## Mission Statement
 
 *OSSENCE* is an open-source initiative focused on advancing the use of open-source software and tools in the domain of standards development, interpretation, and collaboration. Its mission is to establish a transparent, interoperable, and community-driven framework that supports the full lifecycle of standards—from interpretation to authoring to cross-community integration.
 
