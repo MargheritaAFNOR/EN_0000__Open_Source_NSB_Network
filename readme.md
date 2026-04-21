@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-*OSSENCE* is an open-source initiative focused on advancing the use of open-source software and tools in the domain of standards development, interpretation, and collaboration. Its mission is to establish a transparent, interoperable, and community-driven framework that supports the full lifecycle of standards—from interpretation to authoring to cross-community integration.
+*OSSENCE* is an European NSB-led initiative focused on advancing the use of open-source in standardization. Its mission is to explore the potential for digital transformation within European NSBs by sharing best practices arising from the implementation of open-source mindsets, approaches and tools. 
 
 Within its mission, *OSSENCE*:
 
